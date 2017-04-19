@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTraversal", "TreeTraversal\TreeTraversal.csproj", "{08B4C30B-913B-42AD-982A-31CE8B16B660}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTests", "TreeTests\TreeTests.csproj", "{8522FF62-4A48-431D-8C2A-C830654BA21E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeStuff", "TreeStuff\TreeStuff.csproj", "{D8333826-EDD9-4B5B-B14A-0F26AFCB6181}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{08B4C30B-913B-42AD-982A-31CE8B16B660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08B4C30B-913B-42AD-982A-31CE8B16B660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08B4C30B-913B-42AD-982A-31CE8B16B660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8522FF62-4A48-431D-8C2A-C830654BA21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8522FF62-4A48-431D-8C2A-C830654BA21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8522FF62-4A48-431D-8C2A-C830654BA21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8522FF62-4A48-431D-8C2A-C830654BA21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8333826-EDD9-4B5B-B14A-0F26AFCB6181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8333826-EDD9-4B5B-B14A-0F26AFCB6181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8333826-EDD9-4B5B-B14A-0F26AFCB6181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8333826-EDD9-4B5B-B14A-0F26AFCB6181}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
